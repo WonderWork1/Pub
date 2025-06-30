@@ -1,1 +1,1 @@
-My repository works place. Thank you 💙
+My repository work place. Thank you 💙
