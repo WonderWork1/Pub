@@ -14,8 +14,9 @@
 {"Name": "ℛiᴍi-MAC50", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "OK", "Update": "50", "DevID": "MCLC8AEAAF8BEB875F503C27", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": ""}
 {"Name": "ℛiᴍi-MAC51", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "51", "DevID": "MCL0CC7F384679FD32D8BC4B", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
-LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote"
+LSTCAP=LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote|pcapdroid|minhui|monitor|network|sniffer|reqable|fiddler|tcpdump|debugview|evbadroid|wireshark|mitmproxy|mitmdump|tshark|dumpcap|netsniff|dsniff|ettercap|hping|cain|winpcap|npcap|nmap|miner|charles|paros|burp|suite|zaproxy|httpie|postman|insomnia|telerik|soapui|jmeter|artillery|gatling|locust|apache|blazemeter|loadrunner|neoload|wapt|tsung|grinder|siege|debug|paw|curl"
 PYHASH="xxx|xxx"
+
 
 
 
