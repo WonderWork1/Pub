@@ -10,6 +10,8 @@
 {"Name": "Pᴀᴡᴇʟ-Lᴇɢᴇɴᴅ", "Nick": "↤ ℙ𝔞𝐰𝐞ł ↦", "Protect": "", "Update": "49", "Message": "", "DevID": "M3LD33DCF5641A81DDCEB4AA", "Expire": 1779942822, "Device": "Xɪᴀᴏᴍɪ 11T Pʀᴏ\n    ☛ NEW M3U UPDATE [51] IS OUT ☚ ", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Fɪᴋᴏ-M3U", "Nick": "🄵🄸🄺🅾️", "Protect": "PROTECTED", "Update": "48", "Message": "    ☛ NEW M3U UPDATE [51] IS OUT ☚  ", "DevID": "M3L8B763A3D4E533737E941F", "Expire": 1767135600, "Device": "Xɪᴀᴏᴍɪ Aɴᴅʀᴏɪᴅ\n    ☛ NEW M3U UPDATE [50] IS OUT ☚ ", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
+LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote"
+
 {"Name": "ℛiᴍi-M3U", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "46", "Message": "", "DevID": "9A4A0E2F8232FF94675M3L46", "Expire": 1767135600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ9 Open", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "ℛiᴍi-M3U", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "45", "Message": "", "DevID": "924C016B903E88AEB3CM3L45", "Expire": 1767135600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ9 Crypted", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "ℛiᴍi-M3U", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "45", "Message": "", "DevID": "96AE0582D5467ED2759M3L45", "Expire": 1767135600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
@@ -23,6 +25,7 @@
 {"Name": "ℛiᴍi-M3U51", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "51", "Message": "", "DevID": "M3L655ECFD9A9821CC72078F", "Expire": 1767135600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
 "Auto Update Device": "    ☛ NEW M3U UPDATE [51] IS OUT ☚  "
+
 
 
 
