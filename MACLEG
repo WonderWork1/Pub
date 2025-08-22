@@ -16,7 +16,8 @@ PYHASH="xxx|xxx"
 {"Name": "ℛiᴍi-TestEᴍᴜ9", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "DevID": "MCL9641C33E2F7A61F678A8D", "Expire": 1767135600, "Update": "45", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "ShowX": "", "Blocked": "", "Expired": "", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ9"}
 {"Name": "ℛiᴍi-TestEᴍᴜ9", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "DevID": "MCLD31DC029BFADA389A2D8F", "Expire": 1767135600, "Update": "46", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "ShowX": "", "Blocked": "", "Expired": "", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ9"}
 {"Name": "ℛiᴍi-MAC50", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "OK", "Update": "50", "DevID": "MCLC8AEAAF8BEB875F503C27", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": ""}
-{"Name": "ℛiᴍi-MAC51", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "51", "DevID": "MCL0CC7F384679FD32D8BC4B", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-MAC51", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "DevID": "MCL0CC7F384679FD32D8BC4B", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
 "Auto Update Device": "    ☛ NEW M3U UPDATE [51] IS OUT ☚  "
-
+"ShowX": "RIMI" [Full Show] | "ShowX": "OK" [Half Show]
+"Protect": "PROTECTED"
