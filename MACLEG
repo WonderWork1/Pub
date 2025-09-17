@@ -1,6 +1,6 @@
 |MACLeG|Last_u52
 {"Name": "JɪGᴇɴ-Lᴇɢᴇɴᴅ", "Nick": "𝕵𝖎𝖌𝖊𝖓", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL1AF441FACB737AB978125", "Expire": 1798671600, "Device": "Uʟᴇғᴏɴᴇ Aʀᴍᴏʀ11", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
-{"Name": "Tɪɢᴇʀ-Lᴇɢᴇɴᴅ", "Nick": "🐅𝕿𝖎𝖌𝖊𝖗", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLBD4255511B331AE2F0929", "Expire": 1784298473, "Device": "Bʟᴀᴄᴋᴠɪᴇᴡ BL9000 Pʀᴏ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "Tɪɢᴇʀ-Lᴇɢᴇɴᴅ", "Nick": "🐅𝕿𝖎𝖌𝖊𝖗", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLBD4255511B331AE2F0929", "Expire": 1784298473, "Expired": "", "Device": "Bʟᴀᴄᴋᴠɪᴇᴡ BL9000 Pʀᴏ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Fᴇʜᴍɪ-Lᴇɢᴇɴᴅ", "Nick": "𝚅𝙸𝚂𝙰𝚁", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL7A53727280B56AFE85396", "Expire": 1767135600, "Device": "Sᴀᴍsᴜɴɢ Gᴀʟᴀxʏ A05", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Sᴛᴇʟɪᴏs-Lᴇɢᴇɴᴅ", "Nick": "⅀τέλιος", "Protect": "PROTECTED", "ShowX": "", "Update": "50", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL7D686291E597142345CC9", "Expire": 1798671600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Bᴇʀʟɪɴᴏ-Lᴇɢᴇɴᴅ", "Nick": "𝕭𝖊𝖗𝖑𝖎𝖓𝖔", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL67A383A2383E6403D1633", "Expire": 1786744800, "Device": "OɴᴇPʟᴜs 9 LE2113", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
@@ -20,5 +20,7 @@ PYHASH="xxx|xxx"
 
 "Auto Update Device": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  "
 "ShowX": "RIMI" [Full Show] | "ShowX": "OK" [Half Show]
-"Protect": "PROTECTED"
+"Protect": "" or "PROTECTED"
+"Expired": "" or "EXPIRED"
+
 
