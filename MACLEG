@@ -1,5 +1,5 @@
 |MACLeG|Last_u52
-{"Name": "JɪGᴇɴ-Lᴇɢᴇɴᴅ", "Nick": "𝕵𝖎𝖌𝖊𝖓", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL1AF441FACB737AB978125", "Expire": 1798671600, "Device": "Uʟᴇғᴏɴᴇ Aʀᴍᴏʀ11", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "JɪGᴇɴ-Lᴇɢᴇɴᴅ", "Nick": "𝕵𝖎𝖌𝖊𝖓", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCL322E73716DCD6D2882658", "Expire": 1798671600, "Device": "Uʟᴇғᴏɴᴇ Aʀᴍᴏʀ11", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Tɪɢᴇʀ-Lᴇɢᴇɴᴅ", "Nick": "🐅𝕿𝖎𝖌𝖊𝖗", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLF40DFF122EA540B6921BD", "Expire": 1784298473, "Expired": "", "Device": "Oukitel WP39 Pro", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Fᴇʜᴍɪ-Lᴇɢᴇɴᴅ", "Nick": "𝚅𝙸𝚂𝙰𝚁", "Protect": "PROTECTED", "ShowX": "OK", "Update": "51", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL7A53727280B56AFE85396", "Expire": 1767135600, "Device": "Sᴀᴍsᴜɴɢ Gᴀʟᴀxʏ A05", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Sᴛᴇʟɪᴏs-Lᴇɢᴇɴᴅ", "Nick": "⅀τέλιος", "Protect": "PROTECTED", "ShowX": "", "Update": "50", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL7D686291E597142345CC9", "Expire": 1798671600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
@@ -22,3 +22,4 @@ PYHASH="xxx|xxx"
 "ShowX": "RIMI" [Full Show] | "ShowX": "OK" [Half Show]
 "Protect": "" or "PROTECTED"
 "Expired": "" or "EXPIRED"
+
