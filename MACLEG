@@ -9,7 +9,8 @@
 
 LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote|pcapdroid|minhui|monitor|network|sniffer|reqable|fiddler|tcpdump|debugview|evbadroid|wireshark|mitmproxy|mitmdump|tshark|dumpcap|netsniff|dsniff|ettercap|hping|cain|winpcap|npcap|nmap|miner|charles|paros|burp|suite|zaproxy|httpie|postman|insomnia|telerik|soapui|jmeter|artillery|gatling|locust|apache|blazemeter|loadrunner|neoload|wapt|tsung|grinder|siege|debug|paw|curl"
 CLURLS="nginx.org|nginx.com|cloudflare.com|cloudflare.org"
-STKPAS="213.176.3.155|EXAMPLE"
+STKPAS="213.176.3.155|EXAMPLE_for_server_load"
+CCPAS="EXAMPLE|EXAMPLE_for_c_portal"
 PYHASH="xxx|xxx"
 
 {"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "52", "DevID": "MCL7CAA830E78A41174B6B4A", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
