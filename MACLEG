@@ -1,4 +1,4 @@
-|MACLeG|Last_u52
+|MACLeG|Last_u55
 {"Name": "JɪGᴇɴ-MAC", "Nick": "𝕵𝖎𝖌𝖊𝖓", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCL322E73716DCD6D2882658", "Expire": 1798671600, "Expired": "", "Device": "Uʟᴇғᴏɴᴇ Aʀᴍᴏʀ11", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Tɪɢᴇʀ-MAC", "Nick": "🐅𝕿𝖎𝖌𝖊𝖗", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLF40DFF122EA540B6921BD", "Expire": 1784298473, "Expired": "", "Device": "Oukitel WP39 Pro", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Fᴇʜᴍɪ-MAC", "Nick": "𝚅𝙸𝚂𝙰𝚁", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLC4B6B241C025E145EB731", "Expire": 1767135600, "Expired": "", "Device": "Sᴀᴍsᴜɴɢ Gᴀʟᴀxʏ A05", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
@@ -13,9 +13,10 @@ STKPAS="213.176.3.155|45.12.1.14|EXAMPLE_for_server_load"
 CCPAS="EXAMPLE|EXAMPLE_for_c_portal"
 PYHASH="xxx|xxx"
 
-{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "52", "DevID": "MCL7CAA830E78A41174B6B4A", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "53", "DevID": "MCL0B21DD5F71D7E06EE88F5", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
 "Auto Update Device": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  "
 "ShowX": "RIMI" [Full Show] | "ShowX": "OK" [Half Show]
 "Protect": "" or "PROTECTED"
 "Expired": "" or "EXPIRED"
+
