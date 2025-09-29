@@ -19,5 +19,4 @@ CLURLS="nginx.org|nginx.com|cloudflare.com|cloudflare.org"
 {"Name": "ℛiᴍi-M3U53", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "53", "Message": "", "DevID": "M3L1990AF4AE241D1E58AFA1", "Expire": 1767135600, "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "FullPackage": "YES", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
 "Auto Update Device": "    ☛ NEW M3U UPDATE [52] IS OUT ☚  "
-
-
+"FullPackage": "" or "YES" or "FULL"
