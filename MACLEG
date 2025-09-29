@@ -6,19 +6,18 @@
 {"Name": "Bᴇʀʟɪɴᴏ-MAC", "Nick": "𝕭𝖊𝖗𝖑𝖎𝖓𝖔", "Protect": "PROTECTED", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLEAE0E8C4947178E9B8D77", "Expire": 1786744800, "Expired": "", "Device": "OɴᴇPʟᴜs 9 LE2113", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "DixiDonxi-MAC", "Nick": "DᵢₓᵢDₒₙₓᵢ", "Protect": "", "ShowX": "OK", "Update": "52", "Message": "", "DevID": "MCLC00E3498BA1DC1D3D781B", "Expire": 1798718399, "Expired": "", "Device": "Xɪᴀᴏᴍɪ P2 Tᴀʙʟᴇᴛ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 {"Name": "Cᴜ̈ɴᴇʏᴛ-MAC", "Nick": "𝐂𝐨𝐧𝐲", "Protect": "PROTECTED", "ShowX": "", "Update": "46", "Message": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  ", "DevID": "MCL8E822DED792DDA1761F6A", "Expire": 1771956782, "Device": "Hᴜᴀᴡᴇɪ P40 Pʀᴏ\n    ☛ NEW MAC UPDATE [51] IS OUT ☚ ", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
-
+====================================================================
 LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote|pcapdroid|minhui|monitor|network|sniffer|reqable|fiddler|tcpdump|debugview|evbadroid|wireshark|mitmproxy|mitmdump|tshark|dumpcap|netsniff|dsniff|ettercap|hping|cain|winpcap|npcap|nmap|miner|charles|paros|burp|suite|zaproxy|httpie|postman|insomnia|telerik|soapui|jmeter|artillery|gatling|locust|apache|blazemeter|loadrunner|neoload|wapt|tsung|grinder|siege|debug|paw|curl"
 CLURLS="nginx.org|nginx.com|cloudflare.com|cloudflare.org"
 STKPAS="213.176.3.155|45.12.1.14|EXAMPLE_for_server_load"
 CCPAS="EXAMPLE|EXAMPLE_for_c_portal"
 PYHASH="xxx|xxx"
-
-{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "FULL", "Update": "53", "DevID": "MCL0B21DD5F71D7E06EE88F5", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+====================================================================
 {"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "52", "DevID": "MCL7CAA830E78A41174B6B4A", "Expire": 1767135600, "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "FULL", "Update": "53", "DevID": "MCL0B21DD5F71D7E06EE88F5", "Expire": 1767135600, "FullPackage": "FULL", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 
 "Auto Update Device": "    ☛ NEW MAC UPDATE [52] IS OUT ☚  "
 "ShowX": "FULL" [Full Show] | "ShowX": "OK" [Half Show]
+"FullPackage": "" or "YES" or "FULL"
 "Protect": "" or "PROTECTED"
 "Expired": "" or "EXPIRED"
-
-
