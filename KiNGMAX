@@ -2,13 +2,13 @@
 {"Name": "JɪGᴇɴ", "Nick": "𝕵𝖎𝖌𝖊𝖓", "ShowX": "AGENT", "Protect": "PROTECT", "Update": "24", "DevID": "KU0301C54E703F52E4EA8853AA", "Expire": 1795478400, "Expired": "", "Device": "Uʟᴇғᴏɴᴇ Aʀᴍᴏʀ11", "OScraper": "TG-NET", "OComboM3U": "-1-", "OComboMAC": "-0-1-2-3-4-5-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
 {"Name": "Sᴛᴇʟɪᴏs", "Nick": "⅀τέλιος", "ShowX": "AGENT", "Protect": "PROTECT", "Update": "22", "DevID": "KU26957496697086529FF35C39", "Expire": 1795478400, "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "OScraper": "", "OComboM3U": "-1-", "OComboMAC": "-0-1-2-3-4-5-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
 {"Name": "ℛiᴍi-STB", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "24", "DevID": "KUE9409A28C40045B4DFAFDC1A", "Expire": 1769904000, "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ9", "OScraper": "TG-NET", "OComboM3U": "-1-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
-{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "24", "DevID": "KU93CB5041638701EFB8DB4897", "Expire": 1795478400, "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "OScraper": "TG-NET", "FScraper": ["16", "9"], "OComboM3U": "-1-2-3-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
+{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "24", "DevID": "KU93CB5041638701EFB8DB4897", "Expire": 1795478400, "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "OScraper": "TG-NET", "FScraper": ["16", "9"], "OComboM3U": "-1-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
 #################################################################################################################
 -ShowAgentAttakers_|Don't Show = ("ShowX": "") - Show Half = ("ShowX": "AGENT") - Show Full = ("ShowX": "AGENT+")|_
 -OScraper_INFORMATION_|Do nothing = ("OScraper": "") OR TAKE ACTION = ("OScraper": "TG-NET") OR ("OScraper": "TG")|_
 -Protect_INFORMATION_|Don't Protect = ("Protect": "") OR PROTECT USER = ("Protect": "PROTECT")|_
 -OComboM3U_INFORMATION_|No acces = ("OComboM3U": "") OR ("OComboM3U": "-1-2-3-4-5-6-7-8-9-")|_
--OComboMAC_INFORMATION_|No acces = ("OComboMAC": "") OR ("OComboMAC": "-0-1-2-3-4-5-05-")|_
+-OComboMAC_INFORMATION_|No acces = ("OComboMAC": "") OR ("OComboMAC": "-1-2-3-4-5-6-7-8-9-05-")|_
 -OProxies_INFORMATION_|No acces = ("OProxies": "") OR ("OProxies": "-0-H-4-5-V-V0-")|_
 -Expired_INFORMATION_|Don't Expired = ("Expired": "") OR TAKE ACTION = ("Expired": "YES")|_
 -ERRORS_INFORMATION_|Don't Show = ("ERRORS": "") OR Show errors = ("ERRORS": "YES")|_
