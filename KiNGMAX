@@ -15,3 +15,4 @@
 -Module_INFORMATION_|Do nothing = ("Module": "") OR TAKE ACTION = ("Module": "YES")|_
 -Blocked_INFORMATION_|Don't Block = ("Blocked": "") OR BLOCK USER = ("Blocked": "DelitePY OR RimisPYs OR DelAllPY OR TotalAll")|_
 #################################################################################################################
+{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "25", "DevID": "KU157E8CE3D7440B1138898ED6", "Expire": 1795478400, "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ POCO F3", "OScraper": "TG-NET", "FScraper": ["16", "9"], "OComboM3U": "-1-2-3-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
