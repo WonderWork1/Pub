@@ -14,11 +14,12 @@ STKPAS="213.176.3.155|45.12.1.14|EXAMPLE_for_server_load"
 CCPAS="EXAMPLE|EXAMPLE_for_c_portal"
 PYHASH="xxx|xxx"
 ====================================================================
-{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "52", "DevID": "MCL7CAA830E78A41174B6B4A", "Expire": 1798758000, "FullPackage": "FULL", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
-{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "FULL", "Update": "53", "DevID": "MCL0B21DD5F71D7E06EE88F5", "Expire": 1798758000, "FullPackage": "FULL", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
-
 "Auto Update Device": "    ☛ NEW MAC UPDATE [53] IS OUT ☚  "
 "ShowX": "FULL" [Full Show] | "ShowX": "OK" [Half Show]
 "FullPackage": "" or "YES" or "FULL"
 "Protect": "" or "PROTECTED"
 "Expired": "" or "EXPIRED"
+====================================================================
+{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "RIMI", "Update": "52", "DevID": "MCL7CAA830E78A41174B6B4A", "Expire": 1798758000, "FullPackage": "FULL", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-MAC3", "Nick": "ℛiᴍi", "Message": "", "Protect": "PROTECTED", "ShowX": "FULL", "Update": "53", "DevID": "MCL0B21DD5F71D7E06EE88F5", "Expire": 1798758000, "FullPackage": "FULL", "Device": "Test Eᴍᴜʟᴀᴛᴏʀ5", "MCombo": ["MC/MC0", "MC/MC1", "MC/MC2", "MC/MC3", "MC/MC4", "MC/MC05"], "OCombo": "-0-1-2-3-4-05-", "OProxi": "-H-4-5-", "Blocked": "", "Expired": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+====================================================================
