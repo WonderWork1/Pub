@@ -22,8 +22,6 @@ CLURLS="nginx.org|nginx.com|cloudflare.com|cloudflare.org"
 "Expired": "" or "EXPIRED" or "YES"
 "Blocked": "" or "DelitePY" or "RimiPYs" or "DelAllPY" or "CleanALL"
 ====================================================================
-{"Name": "ℛiᴍi-M3U", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "52", "Message": "", "DevID": "M3L6179ED37787EC12E6DB48", "Expire": 1798758000, "Expired": "", "FullPackage": "YES", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
-{"Name": "ℛiᴍi-M3U53", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "53", "Message": "", "DevID": "M3L1990AF4AE241D1E58AFA1", "Expire": 1798758000, "Expired": "", "FullPackage": "YES", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-M3U", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "52", "Message": "", "DevID": "M3L6179ED37787EC12E6DB48", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "FullPackage": "YES", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
+{"Name": "ℛiᴍi-M3U53", "Nick": "ℛiᴍi", "Protect": "PROTECTED", "Update": "53", "Message": "", "DevID": "M3L1990AF4AE241D1E58AFA1", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "FullPackage": "YES", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ5", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "APHash": "4bbed5100a4e7bd0d1112543e9ab9333"}
 ====================================================================
-
-
