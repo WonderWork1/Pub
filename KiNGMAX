@@ -7,8 +7,8 @@
 {"Name": "Wᴏʟᴠᴡᴇʀɪɴᴇ", "Nick": "🆆🅾️🅻🆅🆆🅴🆁🅸🅽🅴", "ShowX": "AGENT", "Protect": "", "Update": "28", "DevID": "KUC5DDC00D038B77028FED245E", "Expire": 1803600000, "ExDate": "26/2/2027", "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ", "OScraper": "TG-NET", "FScraper": ["16", "4"], "OComboM3U": "-1-2-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
 {"Name": "Tɪɢᴇʀ", "Nick": "𝕋𝕚𝕘𝕖𝕣", "ShowX": "AGENT", "Protect": "", "Update": "28", "DevID": "KUB1D67823E5DFD7F07E680247", "Expire": 1814572800, "ExDate": "3/7/2027", "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ", "OScraper": "TG-NET", "FScraper": ["16", "4"], "OComboM3U": "-1-2-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
 #############-PythonSTB-#############
-{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "30", "DevID": "KP864B2C3B63952F4A10A53DB838", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "PythonSTB Studio", "OScraper": "TG-NET", "FScraper": ["16", "5"], "OComboM3U": "-1-2-9-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
-{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "30", "DevID": "KP5247A497F58D0A559D0686CAA7", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "PythonSTB LDPlyer5", "OScraper": "TG-NET", "FScraper": ["16", "5"], "OComboM3U": "-1-2-9-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
+{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "YES", "Update": "30", "DevID": "KP864B2C3B63952F4A10A53DB838", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "PythonSTB Studio", "OScraper": "TG-NET", "FScraper": ["16", "5"], "OComboM3U": "-1-2-9-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
+{"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "YES", "Update": "30", "DevID": "KP5247A497F58D0A559D0686CAA7", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "PythonSTB LDPlyer5", "OScraper": "TG-NET", "FScraper": ["16", "5"], "OComboM3U": "-1-2-9-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
 #############-QPython3S-#############
 {"Name": "ℛiᴍi", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "28", "DevID": "KU3F6CD3500FE6B22132C8D983", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ14", "OScraper": "TG-NET", "FScraper": ["16", "5"], "OComboM3U": "-1-2-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": "YES"}
 {"Name": "ℛiᴍi-STB", "Nick": "ℛiᴍi", "ShowX": "AGENT+", "Protect": "PROTECT", "Update": "28", "DevID": "KUE9409A28C40045B4DFAFDC1A", "Expire": 1798758000, "ExDate": "1/1/2027", "Expired": "", "Device": "Aɴᴅʀᴏɪᴅ Eᴍᴜʟᴀᴛᴏʀ9", "OScraper": "TG-NET", "OComboM3U": "-1-2-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "", "Module": "", "ERRORS": ""}
@@ -18,13 +18,13 @@
 {"Name": "Dʀᴀɢᴏɴ", "Nick": "Ɗɾαցσɳ", "ShowX": "AGENT", "Protect": "", "Update": "27", "DevID": "KU8ACB0A1232E7D25A80072E67", "Expire": 1780264800, "ExDate": "11/4/2027", "Expired": "YES", "Device": "Samsung Tab S7", "OScraper": "", "FScraper": ["16", "4"], "OComboM3U": "-1-2-", "OComboMAC": "-1-2-3-4-5-8-9-05-", "OProxies": "-0-H-4-5-V-V0-", "Blocked": "RimisPYs", "Module": "YES", "ERRORS": ""}
 #############-Info-#############
 -ShowAgentAttakers_|Don't Show = ("ShowX": "") - Show Half = ("ShowX": "AGENT") - Show Full = ("ShowX": "AGENT+")|_
--OScraper_INFORMATION_|Do nothing = ("OScraper": "") OR TAKE ACTION = ("OScraper": "TG-NET") OR ("OScraper": "TG")|_
--Protect_INFORMATION_|Don't Protect = ("Protect": "") OR PROTECT USER = ("Protect": "PROTECT")|_
--OComboM3U_INFORMATION_|No acces = ("OComboM3U": "") OR ("OComboM3U": "-1-2-3-4-5-6-7-8-9-")|_
--OComboMAC_INFORMATION_|No acces = ("OComboMAC": "") OR ("OComboMAC": "-0-1-2-3-4-5-05-")|_
--OProxies_INFORMATION_|No acces = ("OProxies": "") OR ("OProxies": "-0-H-4-5-V-V0-")|_
--Expired_INFORMATION_|Don't Expired = ("Expired": "") OR TAKE ACTION = ("Expired": "YES")|_
--ERRORS_INFORMATION_|Don't Show = ("ERRORS": "") OR Show errors = ("ERRORS": "YES")|_
--Module_INFORMATION_|Do nothing = ("Module": "") OR TAKE ACTION = ("Module": "YES")|_
--Blocked_INFORMATION_|Don't Block = ("Blocked": "") OR BLOCK USER = ("Blocked": "DelitePY OR RimisPYs OR DelAllPY OR TotalAll")|_
+-OScraper_INFORMATION_|Do nothing = ("OScraper": "") or TAKE ACTION = ("OScraper": "TG-NET") or ("OScraper": "TG")|_
+-OComboM3U_INFORMATION_|No acces = ("OComboM3U": "") or ("OComboM3U": "-1-2-3-4-5-6-7-8-9-")|_
+-OComboMAC_INFORMATION_|No acces = ("OComboMAC": "") or ("OComboMAC": "-0-1-2-3-4-5-05-")|_
+-OProxies_INFORMATION_|No acces = ("OProxies": "") or ("OProxies": "-0-H-4-5-V-V0-")|_
+-ERRORS_INFORMATION_|Don't Show = ("ERRORS": "") or Show errors = ("ERRORS": "YES")|_
+-Module_INFORMATION_|Do nothing = ("Module": "") or TAKE ACTION = ("Module": "YES")|_
+-Expired_INFORMATION_|Don't Expired = ("Expired": "") or TAKE ACTION = ("Expired": "YES")|_
+-Protect_INFORMATION_|Don't Protect = ("Protect": "") or PROTECT USER = ("Protect": "PROTECT") or in PytonSTB ("Protect": "YES")|_
+-Blocked_INFORMATION_|Don't Block = ("Blocked": "") or BLOCK USER = ("Blocked": "DelitePY" or "RimiPYs" or "DelAllPY" or "TotalAll")|_
 ====================================
