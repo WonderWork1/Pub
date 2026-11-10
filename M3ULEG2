@@ -1,3 +1,19 @@
 |M3ULeG|PYu55_Last_u53
-{"Name": "ℛiᴍi-PythonSTB", "Nick": "ℛiᴍi", "Message": "", "Update": "53", "DevID": "5570F89B41203D1D6D2A6C2830", "Expire": "01-Jan-2027", "Expired": "", "Device": "AɴᴅʀᴏɪᴅEᴍᴜʟᴀᴛᴏʀ", "FullPackage": "YES", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "UMod": "skfjigeref.txt,sekfjerigg.bin,weurjsdfn1252555.dat"}
+{"Name": "ℛiᴍi-PythonSTB", "Nick": "ℛiᴍi", "Message": "", "Update": "53", "DevID": "5570F89B41203D1D6D2A6C2830", "Expire": "01-Jan-2027", "Expired": "", "Device": "AɴᴅʀᴏɪᴅEᴍᴜʟᴀᴛᴏʀ", "FullPackage": "YES", "UCombo": ["UP/UP1.txt", "UP/UP2.txt", "UP/UP3.txt", "UP/UP4.txt"], "OCombo": "-1-2-3-4-", "OProxi": "-H-4-5-", "Blocked": "", "UMod": ""}
+====================================================================
+############-INFORMATION-############
+-Name_|Name into the welcome screen|_
+-Nick_|Name into the file text|_
+-Message_|Notify user for a Update|_
+-Update_|Update which will run the user|_
+-DevID_|Device KEY for the Activation Server|_
+-Expire_|Expiration date of Licence 01-Jan-2028|_
+-Expired_|("Expired": "") or Expired ("Expired": "EXPIRED")|_
+-Device_|Automatic Device name show up at welcome screen|_
+-FullPackage_|("FullPackage": "") or ("FullPackage": "YES")|_
+-UCombo_|["UP1.txt", "UP2.txt", "UP3.txt", "UP4.txt"]|_
+-OCombo_|("OCombo": "") or ("OCombo": "-1-2-3-4-")|_
+-OProxi_|("OProxi": "") or ("OProxi": "-H-4-5-")|_
+-Blocked_|("Blocked": "") or ("Blocked": "YES")|_
+-UMod_|("UMod": "") or ("UMod": "11.txt,22.dat")|_
 ====================================================================
